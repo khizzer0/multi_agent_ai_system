@@ -1,0 +1,13 @@
+# 🧪 Evaluation: Goal Tests
+
+## ✅ Test 1: Sab kuch sahi kaam kare
+- Goal: Next SpaceX launch dhoondho + uska weather check karo
+- Result: ✅ Success
+
+## ❌ Test 2: Launch data na mile
+- Kya hona chahiye: "No launches found" ya error handle ho jaye
+- Result: ✅ Handled
+
+## ⚠️ Test 3: Weather API fail ho
+- Kya hona chahiye: System error show kare gracefully
+- Result: ✅ Handled
